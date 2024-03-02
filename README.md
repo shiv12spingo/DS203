@@ -5,4 +5,4 @@ Asg 5: Data Visualization\
 Asg 6: Basic Statistics\
 Asg 7: Regression\
 Asg 8: Machine Learning\
-Asg 9: Deep Learning\
+Asg 9: Deep Learning
